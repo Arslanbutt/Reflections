@@ -1,0 +1,15 @@
+Q:What happen when you initialize a repository?
+Why do you need to do it?
+A:A git file is created that keep track of all the
+files and changes we have made to those files. With
+initializing the git we start the point from where
+we want to keep track of our files.
+
+Q:How is the stagging area different from the working
+directory and the repository? What value do you think
+it offers?
+A:It is a temporary area where we can add our files
+before actually committing them. it presents us with
+opportunity to review our commits before finalizing
+them.
+
